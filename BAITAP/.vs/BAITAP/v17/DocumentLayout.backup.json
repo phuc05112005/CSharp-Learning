@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\BAITAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\Tester.cs",
+              "RelativeDocumentMoniker": "Tester.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\Tester.cs",
+              "RelativeToolTip": "Tester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:05:15.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:05:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
