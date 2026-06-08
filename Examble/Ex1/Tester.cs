@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Tester
 {
-    public static void Main()
+    public static void Main1()
     {
         ThoiGian tg = new ThoiGian();
         tg.nhap();
