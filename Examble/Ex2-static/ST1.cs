@@ -38,7 +38,7 @@ namespace Ex2_static
 
     class Program
     {
-        public static void Main()
+        public static void Main2()
         {
             Console.WriteLine($"Ban dau co: {ST1.TotalStudent} sinh vien");
             ST1 st1 = new ST1("nguyen van a");
