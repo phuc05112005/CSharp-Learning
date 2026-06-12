@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\Examble\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\kethua_abstract\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:kethua_abstract\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\baitap1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:baitap1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\kethua_abstract\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:kethua_abstract\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\baitap1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:baitap1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\kethua_abstract\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:kethua_abstract\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\baitap1\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:baitap1\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\kethua_abstract\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:kethua_abstract\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\baitap1\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:baitap1\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|d:\\exercises\\c_sharp\\examble\\kethua_abstract\\libary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F83E3D-3E23-4AEF-9D76-C6A1A7E71CC3}|Examble.csproj|solutionrelative:kethua_abstract\\libary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Program.cs",
-              "RelativeDocumentMoniker": "BAITAP1\\Program.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Program.cs",
-              "RelativeToolTip": "BAITAP1\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Libary.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Libary.cs",
+              "RelativeDocumentMoniker": "Kethua_Abstract\\Libary.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Libary.cs",
+              "RelativeToolTip": "Kethua_Abstract\\Libary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T05:49:55.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Manager.cs",
-              "RelativeDocumentMoniker": "BAITAP1\\Manager.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Manager.cs",
-              "RelativeToolTip": "BAITAP1\\Manager.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T02:54:27.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Employee.cs",
-              "RelativeDocumentMoniker": "BAITAP1\\Employee.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Employee.cs",
-              "RelativeToolTip": "BAITAP1\\Employee.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswD4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T05:01:42.472Z",
+              "WhenOpened": "2026-06-12T07:23:52.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Developer.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Developer.cs",
-              "RelativeDocumentMoniker": "BAITAP1\\Developer.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Developer.cs",
-              "RelativeToolTip": "BAITAP1\\Developer.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Magazine.cs",
+              "RelativeDocumentMoniker": "Kethua_Abstract\\Magazine.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Magazine.cs",
+              "RelativeToolTip": "Kethua_Abstract\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T02:39:55.242Z",
+              "WhenOpened": "2026-06-12T07:18:19.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tester.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Tester.cs",
-              "RelativeDocumentMoniker": "BAITAP1\\Tester.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\BAITAP1\\Tester.cs",
-              "RelativeToolTip": "BAITAP1\\Tester.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\DVD.cs",
+              "RelativeDocumentMoniker": "Kethua_Abstract\\DVD.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\DVD.cs",
+              "RelativeToolTip": "Kethua_Abstract\\DVD.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T03:03:14.204Z",
+              "WhenOpened": "2026-06-12T07:16:36.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Book.cs",
+              "RelativeDocumentMoniker": "Kethua_Abstract\\Book.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Book.cs",
+              "RelativeToolTip": "Kethua_Abstract\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:29:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Document.cs",
+              "RelativeDocumentMoniker": "Kethua_Abstract\\Document.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Examble\\Kethua_Abstract\\Document.cs",
+              "RelativeToolTip": "Kethua_Abstract\\Document.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:21:42.141Z",
               "EditorCaption": ""
             }
           ]

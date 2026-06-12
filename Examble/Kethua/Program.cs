@@ -8,7 +8,7 @@ namespace Examble.BAITAP1
 {
     public class Program
     {
-        public static void Main()
+        public static void Main2()
         {
             Manager nv1 = new Manager(001, "le hoang phuc", 2000, "BE Java", 200, 3);
             nv1.DisplayInfo();

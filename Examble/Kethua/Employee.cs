@@ -50,6 +50,7 @@ namespace Examble.BAITAP1
             set { deparment = value; }
         }
 
+        // Virtual mehtod - Co the override
         public virtual void DisplayInfo()
         {
             Console.WriteLine($"ID: {Id}");
