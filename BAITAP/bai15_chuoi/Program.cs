@@ -8,7 +8,7 @@ namespace BAITAP.bai15_chuoi
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             string chuoi = "Xin chao Viet Nam";
             Console.WriteLine($"Trong chuoi ky tu: {chuoi}");
@@ -74,6 +74,64 @@ namespace BAITAP.bai15_chuoi
             string chuoi9 = "456";
             chuoi8 = chuoi8.Insert(3, chuoi9);
             Console.WriteLine(chuoi8);
+
+            // IndexOf
+            string chuoi10 = "baigjfa";
+            int kq = chuoi10.IndexOf("a");
+            Console.WriteLine(kq);
+
+            // LastIndexOf
+            string chuoi11 = "baigjfa";
+            int kq2 = chuoi11.LastIndexOf("a");
+            Console.WriteLine(kq2);
+
+            // Remove
+            string chuoi12 = "baigjfa";
+            chuoi12 = chuoi12.Remove(3, 2);
+            Console.WriteLine(chuoi12);
+
+            // Replay
+            string chuoi13 = "abc1234512345";
+            chuoi13 = chuoi13.Replace("45", "abc");
+            Console.WriteLine(chuoi13);
+
+            // bool StartsWith
+            string chuoi14 = "ditimthanhcong";
+            bool kt3 = chuoi14.StartsWith("ditim");
+            Console.WriteLine(kt3);
+
+            // Substring
+            string chuoi15 = "12345";
+            string chuoi16 = chuoi15.Substring(2, 3);
+            Console.WriteLine(chuoi16);
+
+            // ToLower, ToUpper
+            string chuoi17 = "Le hOANG pHUC";
+            Console.WriteLine(chuoi17.ToLower());
+            Console.WriteLine(chuoi17.ToUpper());
+
+            // Trim()
+            string chuoi18 = "          abc           ";
+            Console.WriteLine(chuoi18.Trim());
+            Console.WriteLine(chuoi18.TrimEnd());
+            Console.WriteLine(chuoi18.TrimStart());
+
+            // Split
+            string chuoi19 = @"D:\Exercises\C_sharp\BAITAP";
+            string[] lst3 = chuoi19.Split('\\');
+            Console.WriteLine(lst3[0]);
+            Console.WriteLine(lst3[1]);
+            Console.WriteLine(lst3[2]);
+            Console.WriteLine(lst3[3]);
+
+            // joint string
+            string[] lst4 = new string[3];
+            lst4[0] = "Le";
+            lst4[1] = "Hoang";
+            lst4[2] = "Phuc";
+
+            string chuoi20 = string.Join(" ", lst4);
+            Console.WriteLine(chuoi20);
 
             Console.ReadKey();
         }

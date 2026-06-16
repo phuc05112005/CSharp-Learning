@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\BAITAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\bai15_chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:bai15_chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\string20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:string20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\string19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:string19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\bai15_chuoi\\Program.cs",
-              "RelativeDocumentMoniker": "bai15_chuoi\\Program.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\bai15_chuoi\\Program.cs",
-              "RelativeToolTip": "bai15_chuoi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\string20\\Program.cs",
+              "RelativeDocumentMoniker": "string20\\Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\string20\\Program.cs",
+              "RelativeToolTip": "string20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T05:15:18.949Z",
+              "WhenOpened": "2026-06-16T10:08:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\String19\\Program.cs",
+              "RelativeDocumentMoniker": "String19\\Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\String19\\Program.cs",
+              "RelativeToolTip": "String19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:40:00.555Z",
               "EditorCaption": ""
             }
           ]
