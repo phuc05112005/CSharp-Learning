@@ -9,7 +9,7 @@ namespace BAITAP
     internal class Program
     {
         // Kiem tra so nguyen to
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             int a;
             Console.Write("Nhao vao so nguyen a: ");

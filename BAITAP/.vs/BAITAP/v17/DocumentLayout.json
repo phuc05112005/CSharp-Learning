@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\BAITAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\vonglap17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:vonglap17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\vonglap16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:vonglap16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|d:\\exercises\\c_sharp\\baitap\\bai15_chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46763C1B-2C07-40B1-B40D-4EBA7CC3165E}|BAITAP.csproj|solutionrelative:bai15_chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\Vonglap17\\Program.cs",
-              "RelativeDocumentMoniker": "Vonglap17\\Program.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\Vonglap17\\Program.cs",
-              "RelativeToolTip": "Vonglap17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\bai15_chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "bai15_chuoi\\Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\bai15_chuoi\\Program.cs",
+              "RelativeToolTip": "bai15_chuoi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T08:42:12.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Exercises\\C_sharp\\BAITAP\\Vonglap16\\Program.cs",
-              "RelativeDocumentMoniker": "Vonglap16\\Program.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\BAITAP\\Vonglap16\\Program.cs",
-              "RelativeToolTip": "Vonglap16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T06:39:43.344Z",
+              "WhenOpened": "2026-06-16T05:15:18.949Z",
               "EditorCaption": ""
             }
           ]
