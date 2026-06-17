@@ -8,7 +8,7 @@ namespace BAITAP.string20
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             // 1.Nhap mat khau it nhat 6 ki tu, it nhat co 1 chu cai va 1 chu so
             Console.Write("Nhap mat khau (it nhat 6 ki tu, it nhat co 1 chu cai va 1 chu so): ");
