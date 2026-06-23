@@ -1,8 +1,23 @@
+
 .vs/
 **/.vs/
 
+# Build folders
 bin/
 obj/
-
 **/bin/
 **/obj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database cache
+*.db
+*.sqlite
+*.vsidx
+
+# Copilot
+CopilotIndices/

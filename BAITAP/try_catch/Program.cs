@@ -19,7 +19,7 @@ namespace BAITAP.try_catch
                 throw new ArgumentException("Loi mau so bang 0!!!");
         }
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             try
             {
