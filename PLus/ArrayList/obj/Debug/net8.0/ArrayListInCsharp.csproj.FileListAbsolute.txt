@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\ArrayList\bin\Debug\net8.0\ArrayListInCsharp.exe
+D:\Exercises\C_sharp\PLus\ArrayList\bin\Debug\net8.0\ArrayListInCsharp.deps.json
+D:\Exercises\C_sharp\PLus\ArrayList\bin\Debug\net8.0\ArrayListInCsharp.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\ArrayList\bin\Debug\net8.0\ArrayListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ArrayList\bin\Debug\net8.0\ArrayListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.sourcelink.json
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\refint\ArrayListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ArrayListInCsharp.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\ArrayList\obj\Debug\net8.0\ref\ArrayListInCsharp.dll

@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\StackInCsharp\bin\Debug\net8.0\StackInCsharp.exe
+D:\Exercises\C_sharp\PLus\StackInCsharp\bin\Debug\net8.0\StackInCsharp.deps.json
+D:\Exercises\C_sharp\PLus\StackInCsharp\bin\Debug\net8.0\StackInCsharp.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\StackInCsharp\bin\Debug\net8.0\StackInCsharp.dll
+D:\Exercises\C_sharp\PLus\StackInCsharp\bin\Debug\net8.0\StackInCsharp.pdb
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.sourcelink.json
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.dll
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\refint\StackInCsharp.dll
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.pdb
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\StackInCsharp.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\StackInCsharp\obj\Debug\net8.0\ref\StackInCsharp.dll

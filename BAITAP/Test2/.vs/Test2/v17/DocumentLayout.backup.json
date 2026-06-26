@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\Test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|d:\\exercises\\c_sharp\\test2\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38027D11-5B52-40E4-9EFA-4A777D35ADB8}|Test2.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program7.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program7.cs",
+              "RelativeDocumentMoniker": "Program7.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program7.cs",
+              "RelativeToolTip": "Program7.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:31:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program6.cs",
+              "RelativeDocumentMoniker": "Program6.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program6.cs",
+              "RelativeToolTip": "Program6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:04:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program5.cs",
+              "RelativeDocumentMoniker": "Program5.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program5.cs",
+              "RelativeToolTip": "Program5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:59:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program4.cs",
+              "RelativeDocumentMoniker": "Program4.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program4.cs",
+              "RelativeToolTip": "Program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:01:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T06:18:50.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program2.cs",
+              "RelativeToolTip": "Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:13:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Test2\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Test2\\Program3.cs",
+              "RelativeToolTip": "Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:24:35.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

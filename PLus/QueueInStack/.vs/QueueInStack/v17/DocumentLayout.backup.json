@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|d:\\exercises\\c_sharp\\plus\\queueinstack\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|solutionrelative:program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|d:\\exercises\\c_sharp\\plus\\queueinstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|d:\\exercises\\c_sharp\\plus\\queueinstack\\queueinstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42828BD6-79B0-410D-B9FC-73E85E6B4F48}|QueueInStack.csproj|solutionrelative:queueinstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\Program1.cs*",
+              "RelativeToolTip": "Program1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:11:51.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueInStack",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\QueueInStack.csproj",
+              "RelativeDocumentMoniker": "QueueInStack.csproj",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\QueueInStack.csproj",
+              "RelativeToolTip": "QueueInStack.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T06:11:40.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\QueueInStack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T04:44:44.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

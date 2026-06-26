@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\bin\Debug\net8.0\SortedListInCsharp.exe
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\bin\Debug\net8.0\SortedListInCsharp.deps.json
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\bin\Debug\net8.0\SortedListInCsharp.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\bin\Debug\net8.0\SortedListInCsharp.dll
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\bin\Debug\net8.0\SortedListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.sourcelink.json
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.dll
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\refint\SortedListInCsharp.dll
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\SortedListInCsharp.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\SortedListInCsharp\obj\Debug\net8.0\ref\SortedListInCsharp.dll

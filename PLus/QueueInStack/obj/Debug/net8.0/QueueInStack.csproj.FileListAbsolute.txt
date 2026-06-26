@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\QueueInStack\bin\Debug\net8.0\QueueInStack.exe
+D:\Exercises\C_sharp\PLus\QueueInStack\bin\Debug\net8.0\QueueInStack.deps.json
+D:\Exercises\C_sharp\PLus\QueueInStack\bin\Debug\net8.0\QueueInStack.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\QueueInStack\bin\Debug\net8.0\QueueInStack.dll
+D:\Exercises\C_sharp\PLus\QueueInStack\bin\Debug\net8.0\QueueInStack.pdb
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.sourcelink.json
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.dll
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\refint\QueueInStack.dll
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.pdb
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\QueueInStack.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\QueueInStack\obj\Debug\net8.0\ref\QueueInStack.dll
