@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\Generic\bin\Debug\net8.0\Generic.exe
+D:\Exercises\C_sharp\PLus\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\Exercises\C_sharp\PLus\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\Generic\bin\Debug\net8.0\Generic.dll
+D:\Exercises\C_sharp\PLus\Generic\bin\Debug\net8.0\Generic.pdb
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.sourcelink.json
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.dll
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.pdb
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\Generic\obj\Debug\net8.0\ref\Generic.dll

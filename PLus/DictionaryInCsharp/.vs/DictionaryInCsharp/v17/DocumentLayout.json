@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|d:\\exercises\\c_sharp\\plus\\dictionaryincsharp\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|solutionrelative:program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|d:\\exercises\\c_sharp\\plus\\dictionaryincsharp\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|d:\\exercises\\c_sharp\\plus\\dictionaryincsharp\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|d:\\exercises\\c_sharp\\plus\\dictionaryincsharp\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|solutionrelative:program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|d:\\exercises\\c_sharp\\plus\\dictionaryincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B9ABA3-DA09-448E-B35A-D467A8D9EFDD}|DictionaryInCsharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program4.cs",
+              "RelativeDocumentMoniker": "Program4.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program4.cs",
+              "RelativeToolTip": "Program4.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T15:19:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program3.cs",
+              "RelativeToolTip": "Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:57:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program2.cs",
+              "RelativeToolTip": "Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:50:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program1.cs",
+              "RelativeToolTip": "Program1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:34:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:52:38.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

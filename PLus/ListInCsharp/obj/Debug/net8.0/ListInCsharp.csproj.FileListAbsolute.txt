@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\ListInCsharp\bin\Debug\net8.0\ListInCsharp.exe
+D:\Exercises\C_sharp\PLus\ListInCsharp\bin\Debug\net8.0\ListInCsharp.deps.json
+D:\Exercises\C_sharp\PLus\ListInCsharp\bin\Debug\net8.0\ListInCsharp.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\ListInCsharp\bin\Debug\net8.0\ListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ListInCsharp\bin\Debug\net8.0\ListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.sourcelink.json
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\refint\ListInCsharp.dll
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.pdb
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ListInCsharp.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\ListInCsharp\obj\Debug\net8.0\ref\ListInCsharp.dll

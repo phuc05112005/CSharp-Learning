@@ -1,0 +1,15 @@
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.exe
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.deps.json
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.runtimeconfig.json
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.dll
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\bin\Debug\net8.0\DictionaryInCsharp.pdb
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.AssemblyInfo.cs
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.sourcelink.json
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.dll
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\refint\DictionaryInCsharp.dll
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.pdb
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\DictionaryInCsharp.genruntimeconfig.cache
+D:\Exercises\C_sharp\PLus\DictionaryInCsharp\obj\Debug\net8.0\ref\DictionaryInCsharp.dll
