@@ -1,0 +1,7 @@
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\bin\Debug\GaLaiLapTrinh.exe.config
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\bin\Debug\GaLaiLapTrinh.exe
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\bin\Debug\GaLaiLapTrinh.pdb
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\obj\Debug\GaLaiLapTrinh.csproj.AssemblyReference.cache
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\obj\Debug\GaLaiLapTrinh.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\obj\Debug\GaLaiLapTrinh.exe
+D:\Exercises\C_sharp\Loop\GaLaiLapTrinh\GaLaiLapTrinh\obj\Debug\GaLaiLapTrinh.pdb

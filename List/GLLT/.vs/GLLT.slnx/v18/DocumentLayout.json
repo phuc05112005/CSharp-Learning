@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\List\\GLLT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\list\\gllt\\gllt\\bai27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|solutionrelative:gllt\\bai27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\list\\gllt\\gllt\\bai25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|solutionrelative:gllt\\bai25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\list\\gllt\\gllt\\bai24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|solutionrelative:gllt\\bai24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\list\\gllt\\gllt\\bai26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|solutionrelative:gllt\\bai26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\list\\gllt\\gllt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6025CD-4F74-48E8-8902-52D3E639F8DC}|GLLT\\GLLT.csproj|solutionrelative:gllt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai27.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai27.cs",
+              "RelativeDocumentMoniker": "GLLT\\Bai27.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai27.cs",
+              "RelativeToolTip": "GLLT\\Bai27.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:49:38.531Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai26.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai26.cs",
+              "RelativeDocumentMoniker": "GLLT\\Bai26.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai26.cs",
+              "RelativeToolTip": "GLLT\\Bai26.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:32:36.793Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai25.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai25.cs",
+              "RelativeDocumentMoniker": "GLLT\\Bai25.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai25.cs",
+              "RelativeToolTip": "GLLT\\Bai25.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:13:36.279Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai24.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai24.cs",
+              "RelativeDocumentMoniker": "GLLT\\Bai24.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Bai24.cs",
+              "RelativeToolTip": "GLLT\\Bai24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T16:08:37.457Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Program.cs",
+              "RelativeDocumentMoniker": "GLLT\\Program.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\List\\GLLT\\GLLT\\Program.cs",
+              "RelativeToolTip": "GLLT\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:02:53.196Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

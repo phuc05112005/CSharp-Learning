@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.AssemblyInfo.cs
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.sourcelink.json
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.exe
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.deps.json
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.runtimeconfig.json
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.runtimeconfig.dev.json
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.dll
+D:\Exercises\C_sharp\List\GLLT\GLLT\bin\Debug\net10.0\GLLT.pdb
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.dll
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\refint\GLLT.dll
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.pdb
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.genruntimeconfig.cache
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\ref\GLLT.dll
+D:\Exercises\C_sharp\List\GLLT\GLLT\obj\Debug\net10.0\GLLT.csproj.Up2Date

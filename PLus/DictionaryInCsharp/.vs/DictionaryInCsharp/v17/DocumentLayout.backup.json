@@ -46,9 +46,9 @@
               "Title": "Program4.cs",
               "DocumentMoniker": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program4.cs",
               "RelativeDocumentMoniker": "Program4.cs",
-              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program4.cs*",
-              "RelativeToolTip": "Program4.cs*",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGcAAABiAAAAAAAAAA==",
+              "ToolTip": "D:\\Exercises\\C_sharp\\PLus\\DictionaryInCsharp\\Program4.cs",
+              "RelativeToolTip": "Program4.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T15:19:40.816Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Program3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T14:57:42.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:57:42.508Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Program2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T14:50:12.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:50:12.232Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Program1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T14:34:05.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T14:34:05.439Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T13:52:38.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T13:52:38.539Z"
             }
           ]
         }

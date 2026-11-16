@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Part4CTDK": {
+      "commandName": "Project",
+      "commandLineArgs": "t1 t2 t3 \"t4 co chua khoang trang\" "
+    }
+  }
+}

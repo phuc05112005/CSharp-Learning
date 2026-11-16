@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.exe
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.deps.json
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.runtimeconfig.json
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.runtimeconfig.dev.json
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.dll
+D:\Exercises\C_sharp\ONTAP\Part3Array\bin\Debug\net10.0\Part3Array.pdb
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.AssemblyInfo.cs
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.sourcelink.json
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.dll
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\refint\Part3Array.dll
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.pdb
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.genruntimeconfig.cache
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\ref\Part3Array.dll
+D:\Exercises\C_sharp\ONTAP\Part3Array\obj\Debug\net10.0\Part3Array.csproj.Up2Date

@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.exe
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.deps.json
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.runtimeconfig.json
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.runtimeconfig.dev.json
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.dll
+D:\Exercises\C_sharp\Loop\TITV\TITV\bin\Debug\net10.0\TITV.pdb
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.AssemblyInfo.cs
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.sourcelink.json
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.dll
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\refint\TITV.dll
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.pdb
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.genruntimeconfig.cache
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\ref\TITV.dll
+D:\Exercises\C_sharp\Loop\TITV\TITV\obj\Debug\net10.0\TITV.csproj.Up2Date

@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.exe
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.deps.json
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.runtimeconfig.json
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.dll
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.pdb
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.AssemblyInfo.cs
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.sourcelink.json
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.dll
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\refint\bai3.dll
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.pdb
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.genruntimeconfig.cache
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\ref\bai3.dll
+D:\Exercises\C_sharp\ONTAP\bai3\bin\Debug\net8.0\bai3.runtimeconfig.dev.json
+D:\Exercises\C_sharp\ONTAP\bai3\obj\Debug\net8.0\bai3.csproj.Up2Date

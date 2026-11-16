@@ -1,0 +1,7 @@
+D:\Exercises\C_sharp\Array\GLLT\GLLT\bin\Debug\GLLT.exe.config
+D:\Exercises\C_sharp\Array\GLLT\GLLT\bin\Debug\GLLT.exe
+D:\Exercises\C_sharp\Array\GLLT\GLLT\bin\Debug\GLLT.pdb
+D:\Exercises\C_sharp\Array\GLLT\GLLT\obj\Debug\GLLT.csproj.AssemblyReference.cache
+D:\Exercises\C_sharp\Array\GLLT\GLLT\obj\Debug\GLLT.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\Array\GLLT\GLLT\obj\Debug\GLLT.exe
+D:\Exercises\C_sharp\Array\GLLT\GLLT\obj\Debug\GLLT.pdb

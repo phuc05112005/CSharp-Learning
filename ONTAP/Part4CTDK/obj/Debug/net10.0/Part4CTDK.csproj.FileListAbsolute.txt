@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.exe
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.deps.json
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.runtimeconfig.json
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.runtimeconfig.dev.json
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.dll
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\bin\Debug\net10.0\Part4CTDK.pdb
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.AssemblyInfo.cs
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.sourcelink.json
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.dll
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\refint\Part4CTDK.dll
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.pdb
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.genruntimeconfig.cache
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\ref\Part4CTDK.dll
+D:\Exercises\C_sharp\ONTAP\Part4CTDK\obj\Debug\net10.0\Part4CTDK.csproj.Up2Date

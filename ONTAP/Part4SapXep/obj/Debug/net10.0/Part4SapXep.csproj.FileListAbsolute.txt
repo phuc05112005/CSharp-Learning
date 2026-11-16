@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.exe
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.deps.json
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.runtimeconfig.json
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.runtimeconfig.dev.json
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.dll
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\bin\Debug\net10.0\Part4SapXep.pdb
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.AssemblyInfo.cs
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.sourcelink.json
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.dll
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\refint\Part4SapXep.dll
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.pdb
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4SapXep.genruntimeconfig.cache
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\ref\Part4SapXep.dll
+D:\Exercises\C_sharp\ONTAP\Part4SapXep\obj\Debug\net10.0\Part4Sap.A115747D.Up2Date

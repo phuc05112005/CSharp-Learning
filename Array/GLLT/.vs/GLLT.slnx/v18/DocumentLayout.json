@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercises\\C_sharp\\Array\\GLLT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6B2976-83A5-4649-B53E-1509776A4BD3}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\array\\gllt\\gllt\\mang2chieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6B2976-83A5-4649-B53E-1509776A4BD3}|GLLT\\GLLT.csproj|solutionrelative:gllt\\mang2chieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6B2976-83A5-4649-B53E-1509776A4BD3}|GLLT\\GLLT.csproj|d:\\exercises\\c_sharp\\array\\gllt\\gllt\\mang1chieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6B2976-83A5-4649-B53E-1509776A4BD3}|GLLT\\GLLT.csproj|solutionrelative:gllt\\mang1chieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mang2chieu.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Array\\GLLT\\GLLT\\mang2chieu.cs",
+              "RelativeDocumentMoniker": "GLLT\\mang2chieu.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Array\\GLLT\\GLLT\\mang2chieu.cs",
+              "RelativeToolTip": "GLLT\\mang2chieu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwDMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T07:57:41.762Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mang1chieu.cs",
+              "DocumentMoniker": "D:\\Exercises\\C_sharp\\Array\\GLLT\\GLLT\\mang1chieu.cs",
+              "RelativeDocumentMoniker": "GLLT\\mang1chieu.cs",
+              "ToolTip": "D:\\Exercises\\C_sharp\\Array\\GLLT\\GLLT\\mang1chieu.cs",
+              "RelativeToolTip": "GLLT\\mang1chieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T04:47:11.494Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

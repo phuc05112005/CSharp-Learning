@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DictionaryInCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d817a9743abb319aca7db351844e694602f3af5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b6fa1a2ee78382cf5f6dcc1c0432c7ad22a627")]
 [assembly: System.Reflection.AssemblyProductAttribute("DictionaryInCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DictionaryInCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

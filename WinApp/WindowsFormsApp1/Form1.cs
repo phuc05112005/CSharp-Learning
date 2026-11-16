@@ -42,5 +42,10 @@ namespace WindowsFormsApp1
             txtA.Text = "";
             txtB.Text = "";
         }
+
+        private void txtA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

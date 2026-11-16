@@ -1,0 +1,17 @@
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.exe
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.deps.json
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.runtimeconfig.json
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.runtimeconfig.dev.json
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.dll
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\bin\Debug\net10.0\Part4TimKiemTrongMang.pdb
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.AssemblyInfoInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.AssemblyInfo.cs
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.csproj.CoreCompileInputs.cache
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.sourcelink.json
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.dll
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\refint\Part4TimKiemTrongMang.dll
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.pdb
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4TimKiemTrongMang.genruntimeconfig.cache
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\ref\Part4TimKiemTrongMang.dll
+D:\Exercises\C_sharp\ONTAP\Part4TimKiemTrongMang\obj\Debug\net10.0\Part4Tim.333CCBC2.Up2Date
