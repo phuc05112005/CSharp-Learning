@@ -1,8 +1,0 @@
-D:\Exercises\C_sharp\string21\bin\Debug\string21.exe.config
-D:\Exercises\C_sharp\string21\bin\Debug\string21.exe
-D:\Exercises\C_sharp\string21\bin\Debug\string21.pdb
-D:\Exercises\C_sharp\string21\obj\Debug\string21.csproj.AssemblyReference.cache
-D:\Exercises\C_sharp\string21\obj\Debug\string21.csproj.CoreCompileInputs.cache
-D:\Exercises\C_sharp\string21\obj\Debug\string21.exe
-D:\Exercises\C_sharp\string21\obj\Debug\string21.pdb
-D:\Exercises\C_sharp\string21\obj\Debug\string21.exe.config

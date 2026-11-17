@@ -1,8 +1,0 @@
-D:\Exercises\C_sharp\ONTAP\bai2-3\bin\Debug\bai2-3.exe.config
-D:\Exercises\C_sharp\ONTAP\bai2-3\bin\Debug\bai2-3.exe
-D:\Exercises\C_sharp\ONTAP\bai2-3\bin\Debug\bai2-3.pdb
-D:\Exercises\C_sharp\ONTAP\bai2-3\obj\Debug\bai2-3.csproj.AssemblyReference.cache
-D:\Exercises\C_sharp\ONTAP\bai2-3\obj\Debug\bai2-3.csproj.CoreCompileInputs.cache
-D:\Exercises\C_sharp\ONTAP\bai2-3\obj\Debug\bai2-3.exe
-D:\Exercises\C_sharp\ONTAP\bai2-3\obj\Debug\bai2-3.pdb
-D:\Exercises\C_sharp\ONTAP\bai2-3\obj\Debug\bai2-3.exe.config
